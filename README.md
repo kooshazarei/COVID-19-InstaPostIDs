@@ -21,7 +21,7 @@ For any further question, please contact Koosha Zarei at \textit{koosha.zarei@te
 ### Licensing & References
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0) and we publish in agreement with Instagram's [Terms & Conditions](https://help.instagram.com/519522125107875 "Terms & Conditions").
 
-By using this dataset, you agree to remain in compliance with conditions in the license and Instagram's Terms and Conditions, and cite the following manuscript:
+- By using this dataset, you agree to remain in compliance with conditions in the license and Instagram's Terms and Conditions, and cite the following manuscript:
 
 
 

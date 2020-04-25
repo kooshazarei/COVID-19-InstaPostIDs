@@ -11,6 +11,7 @@ We hope that the dataset can support diverse research activities. Below we list 
 - Bot Activity
 - Behavioral change analysis during the pandemic.
 - Information sharing related Covid-19.
+- etc.
 
 ------------
 ### Data Collection
@@ -35,20 +36,6 @@ The first version of this data collection process started on January 5, 2020 and
 | Turkish              | tr   |        68 |     1.2% |
 | Other & non-detected | -    |       643 |    12.1% |
 
-
-
-
-|          Post         |       |           Profile            |       |
-|:----------------|-------:|:---------------------|-------:|
-| name                  | value | name                       | value |
-| avg. caption len      |   388 | avg. follower              |  2.6K |
-| avg. received like    |   106 | avg. followee              |   925 |
-| avg. received comment |     7 | avg. mediacount            |   385 |
-| is video (%)          | 0.2\% | avg. biography len  (char) |    94 |
-| avg. hashtag          |    16 | unverified (\%)            |  99\% |
-| avg. mention account  |   0.6 | unique profiles            |  2.5K |
-| avg. tagged account   |     1 |  
-| has location (%)      |   1\% |
 
 
 ### Inquiries

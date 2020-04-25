@@ -15,6 +15,19 @@ The first version of this data collection process started on January 5, 2020 and
 ![hashtag wordcloud](/Image/wordcloud.jpg "hashtag wordcloud")
 
 
+|          Post         |       |           Profile          |       |
+|:---------------------:|-------|:--------------------------:|-------|
+| name                  | value | name                       | value |
+| avg. caption len      |   388 | avg. follower              |  2.6K |
+| avg. received like    |   106 | avg. followee              |   925 |
+| avg. received comment |     7 | avg. mediacount            |   385 |
+| is video (%)          | 0.2\% | avg. biography len  (char) |    94 |
+| avg. hashtag          |    16 | unverified (\%)            |  99\% |
+| avg. mention account  |   0.6 | unique profiles            |  2.5K |
+| avg. tagged account   |     1 |  
+| has location (%)      |   1\% |
+
+
 ### Inquiries
 For any further question, please contact Koosha Zarei at \textit{koosha.zarei@telecom-sudparis.eu}.
 

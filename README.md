@@ -5,6 +5,12 @@ The repository includes an ongoing collection of Instagram Posts IDs correlated 
 
 ![hashtag wordcloud](/Image/wordcloud.jpg "hashtag wordcloud")
 
+We hope that the dataset can support diverse research activities. Below we list a subset of potential topics, we believe the dataset could support:
+
+- Fake news, misinformation and rumors spreading.
+- Bot Activity
+- Behavioral change analysis during the pandemic.
+- Information sharing related Covid-19.
 
 ------------
 ### Data Collection

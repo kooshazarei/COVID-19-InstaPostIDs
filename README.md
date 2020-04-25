@@ -40,11 +40,12 @@ The first version of this data collection process started on January 5, 2020 and
 ### Inquiries
 For any further question, please contact Koosha Zarei at \textit{koosha.zarei@telecom-sudparis.eu}.
 
-### Licensing & References
+### Licensing
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License (CC BY-NC-SA 4.0) and we publish in agreement with Instagram's [Terms & Conditions](https://help.instagram.com/519522125107875 "Terms & Conditions").
 
-- By using this dataset, you agree to remain in compliance with conditions in the license and Instagram's Terms and Conditions, and cite the following manuscript:
+By using this dataset, you agree to remain in compliance with conditions in the license and Instagram's Terms and Conditions, and cite the following paper:
 
+### References
 Koosha Zarei, Reza Farahbakhsh, Noel Crespi, and Gareth Tyson. 2020. A First Instagram Dataset on COVID-19.
 
 

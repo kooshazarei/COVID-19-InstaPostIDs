@@ -46,6 +46,6 @@ This dataset is licensed under the Creative Commons Attribution-NonCommercial-Sh
 By using this dataset, you agree to remain in compliance with conditions in the license and Instagram's Terms and Conditions, and cite the following paper:
 
 ### References
-Koosha Zarei, Reza Farahbakhsh, Noel Crespi, and Gareth Tyson. 2020. A First Instagram Dataset on COVID-19.
+Koosha Zarei, Reza Farahbakhsh, Noel Crespi, and Gareth Tyson. 2020. A First Instagram Dataset on COVID-19. arXiv:2004.12226.
 
 

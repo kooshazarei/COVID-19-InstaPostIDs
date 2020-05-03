@@ -12,6 +12,9 @@ We hope that the dataset can support diverse research activities. Below we list 
 - Information sharing related Covid-19.
 - etc.
 
+
+The linked paper to this dataset (arxiv): [A First Instagram Dataset on COVID-19](https://arxiv.org/abs/2004.12226)
+
 ------------
 ### Data Collection
 We have collected public posts from Instagram by crawling all posts associated with a set of COVID-19 hashtags including *#coronavirus*, *#covid19*, *#covid_19*, and *#corona*.
